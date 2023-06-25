@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![Dong Young Kim](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+![Dong Young Kim](https://raw.githubusercontent.com/crboy1118/img/main/%EA%B9%80%EB%8F%99%EC%98%81%20%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84%20%EC%B5%9C%EC%8B%A0.jpg){width=80%}
 
 
 Contact Info {#contact}
